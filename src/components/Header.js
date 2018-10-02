@@ -77,7 +77,7 @@ class Header extends Component {
 
   render() {
     return (
-      <AppBar>
+      <AppBar position="static">
         <Toolbar>
           {this.renderNavigation()}
           {this.renderTitle()}

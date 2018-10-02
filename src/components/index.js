@@ -1,3 +1,4 @@
 import Header from "./Header";
+import Exam from "./Exam";
 
-export { Header };
+export { Exam, Header };
