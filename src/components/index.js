@@ -1,4 +1,5 @@
 import Header from "./Header";
-import Exam from "./Exam";
+import ExamCard from "./ExamCard";
+import ExamGrid from "./ExamGrid";
 
-export { Exam, Header };
+export { ExamCard, ExamGrid, Header };

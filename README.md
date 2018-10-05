@@ -50,4 +50,6 @@
   - [CardContent](https://material-ui.com/api/card-content/)
   - [CardMedia](https://material-ui.com/api/card-media/)
   - [CardHeader](https://material-ui.com/api/card-header/)
+  - [GridList](https://material-ui.com/api/grid-list/)
+  - [GridListTile](https://material-ui.com/api/grid-list-tile/)
   - [Divider](https://material-ui.com/api/divider/)

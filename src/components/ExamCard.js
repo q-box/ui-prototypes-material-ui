@@ -16,7 +16,7 @@ import {
 import DoneIcon from "@material-ui/icons/DoneOutline";
 import UnkownIcon from "@material-ui/icons/AttachFile";
 
-class Exam extends Component {
+class ExamCard extends Component {
   renderHeader = (done, title, subtitle) => {
     return (
       <CardHeader
@@ -86,4 +86,4 @@ class Exam extends Component {
   }
 }
 
-export default Exam;
+export default ExamCard;
